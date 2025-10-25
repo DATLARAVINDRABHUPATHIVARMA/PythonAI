@@ -5,7 +5,7 @@ print(2+3)
 print(5-6)
 
 # mutiply
-print(6*4)
+print(6*4) 
 
 # divide
-print(8/4) #float
+print(8/4) #float 
