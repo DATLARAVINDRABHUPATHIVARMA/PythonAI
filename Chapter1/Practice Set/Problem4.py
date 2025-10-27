@@ -11,3 +11,4 @@ print(6*4)
 print(8/4) #float 
 
 # mod
+print(7%4) #remainder
