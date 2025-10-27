@@ -9,3 +9,5 @@ print(6*4)
 
 # divide
 print(8/4) #float 
+
+# mod
