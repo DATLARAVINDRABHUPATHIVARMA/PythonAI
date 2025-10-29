@@ -11,7 +11,6 @@ try:
     for entry in entries:
         print(entry)
 
-
         #errors
 
 except FileNotFoundError:
