@@ -19,3 +19,5 @@ except PermissionError:
     print(f"Permission denied to access '{directory_path}'.")
 except Exception as e:
     print(f"An error occurred: {e}") 
+
+    
