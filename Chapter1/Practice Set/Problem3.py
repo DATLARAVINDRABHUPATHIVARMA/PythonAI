@@ -1,6 +1,6 @@
 import os
 
-# Enter the path
+# Enter the directory path you want to list
 directory_path = "./../../"
 
 try:
