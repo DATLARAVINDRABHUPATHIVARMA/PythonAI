@@ -23,7 +23,6 @@ def even(n):
 
 main()
 
-
 # using main function and complex function & boolean return type
 def main():
     x = int(input("Enter x: "))
