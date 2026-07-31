@@ -28,7 +28,7 @@ main()
 def main():
     x = int(input("Enter x: "))
 
-    # using Modulus symbol to check if the number is even or odd in a simple way
+# using Modulus symbol to check if the number is even or odd in a simple way
     if even(x):
         print("Even")
     else:
