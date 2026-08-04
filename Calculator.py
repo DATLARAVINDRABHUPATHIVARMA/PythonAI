@@ -1,5 +1,5 @@
-x = int(input("What's X? "))
-y = int(input("What's Y? "))
+# x = int(input("What's X? "))
+# y = int(input("What's Y? "))
 
 # print(f"The sum of {x} and {y} is {x + y}")
 # print(f"The difference of {x} and {y} is {x - y}")
