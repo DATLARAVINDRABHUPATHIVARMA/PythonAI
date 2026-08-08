@@ -8,6 +8,6 @@
 import sys
 from Sayings import hello, goodbye
 
-if len(sys.argv) == 3:
+if len(sys.argv) == 3:ser
     hello(sys.argv[1])
     goodbye(sys.argv[2])
