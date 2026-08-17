@@ -12,7 +12,7 @@ print(coin)
 # dice = choice( [ 1, 2, 3, 4, 5, 6 ] )
 # print(dice)
 
-number = random.randint(0, 100)
+# number = random.randint(0, 100)
 # print(number)
 
 cards = [ "Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King" ]
