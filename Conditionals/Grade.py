@@ -1,4 +1,4 @@
-# marks = int(input("Enter your marks: "))
+marks = int(input("Enter your marks: "))
 
 # Using 'and' keyword
 if marks > 100 or marks < 0:
