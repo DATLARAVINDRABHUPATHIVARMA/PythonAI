@@ -4,11 +4,11 @@ print("Hello, Yuvarani Sruthi")
 print("Hello, Yuvarani Sruthi")
 
 
-while loop
-i = 7
-while i != 4:
-    print("Hello, Yuvarani Sruthi Om Sai Varma")
-    i = i-1
+# while loop
+# i = 7
+# while i != 4:
+#     print("Hello, Yuvarani Sruthi Om Sai Varma")
+#     i = i-1
 
 i = 0
 while i < 5:
