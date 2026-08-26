@@ -18,28 +18,28 @@ y = int(input("Enter Y"))
 # elif x == y:
 #     print("X is equal to Y")
 
-conditional statements using if, elif & else
-if x > y:
-    print("X is greater than Y")
-elif x < y:
-    print("X is less than Y")
-else:
-    print("X is equal to Y")
+# conditional statements using if, elif & else
+# if x > y:
+#     print("X is greater than Y")
+# elif x < y:
+#     print("X is less than Y")
+# else:
+#     print("X is equal to Y")
 
 
-conditional statements using (or) keyword
-if x > y or x < y:
-    print("X is not equal to Y")
-else:
-    print("X is equal to Y")
+# conditional statements using (or) keyword
+# if x > y or x < y:
+#     print("X is not equal to Y")
+# else:
+#     print("X is equal to Y")
 
-conditional statements using != 
-if x != y:
-    print("X is not equal to Y")
-else:
-    print("X is equal to Y")
+# conditional statements using != 
+# if x != y:
+#     print("X is not equal to Y")
+# else:
+#     print("X is equal to Y")
 
-conditional statements using == 
+# conditional statements using == 
 if x == y:
     print("X is equal to Y")
 else:
