@@ -1,5 +1,5 @@
-# x = int(input("Enter X"))
-# y = int(input("Enter Y"))
+x = int(input("Enter X"))
+y = int(input("Enter Y"))
 
 
 # conditional statements using if
