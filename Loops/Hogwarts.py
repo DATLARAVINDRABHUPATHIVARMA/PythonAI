@@ -5,7 +5,6 @@
 # print(team[1])
 # print(team[2])
 
-
 # for x in team:
 #     print(x)
 
