@@ -1,5 +1,5 @@
-# team = ["Sruthi", "Sravani", "Radha", "Suneel", "Rangavathi", "Maharathi Ravindra"] #keys
-# power = ["The Great Highness", "Princess", "The Giant Queen", "King", "Wise Queen Mom", "The Strongest Warrior General of the Army"] #values
+# team = ["Sruthi", "Sravani", "Radha", "Suneel", "Rangavathi", "Maharathi Ravindra"] # keys
+# power = ["The Great Highness", "Princess", "The Giant Queen", "King", "Wise Queen Mom", "The Strongest Warrior General of the Army"] # values
 
 # print(team[0])
 # print(team[1])
