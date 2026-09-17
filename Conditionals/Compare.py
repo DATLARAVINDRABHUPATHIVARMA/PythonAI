@@ -11,12 +11,12 @@ if x == y:
     print("X is equal to Y")
 
 # conditional statements using if & elif
-if x > y:
-    print("X is greater than Y")
-elif x < y:
-    print("X is less than Y")
-elif x == y:
-    print("X is equal to Y")
+# if x > y:
+#     print("X is greater than Y")
+# elif x < y:
+#     print("X is less than Y")
+# elif x == y:
+#     print("X is equal to Y")
 
 # conditional statements using if, elif & else
 # if x > y:
