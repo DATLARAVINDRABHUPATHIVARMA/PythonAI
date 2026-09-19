@@ -45,5 +45,5 @@ else:
 #     print("Grade: D")
 # elif 50 <= marks < 60:
 #     print("Grade: E")
-# else:
-#     print("Grade: F")
+else:
+    print("Grade: F")
