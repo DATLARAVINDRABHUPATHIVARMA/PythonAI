@@ -35,8 +35,8 @@ else:
 # Without Using "and" keyword other way
 if marks > 100 or marks < 0:
     print("Invalid marks")
-# elif 90 <= marks < 100:
-#     print("Grade: A")
+elif 90 <= marks < 100:
+    print("Grade: A")
 # elif 80 <= marks < 90:
 #     print("Grade: B")
 # elif 70 <= marks < 80:
