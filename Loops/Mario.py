@@ -16,8 +16,8 @@
 # def print_col(r):
 #     print("#\n" * r, end="")
 
-def tab():
-    print_square(20)
+# def tab():
+#     print_square(20)
     # print_row(4)
 
 # Width of the row
