@@ -17,7 +17,7 @@
 #     print("#\n" * r, end="")
 
 def tab():
-    print_square(20)  
+    print_square(20)
     # print_row(4)
 
 # Width of the row
