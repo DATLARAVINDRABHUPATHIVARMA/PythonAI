@@ -41,6 +41,7 @@ def even(n):
 
 main()
 
+
 # Pythonic way of checking if the number is even or odd using main function and complex function & boolean return type
 def main():
     x = int(input("Enter x: "))
