@@ -1,20 +1,20 @@
-# print("#")
-# print("#")
-# print("#")
+print("#")
+print("#")
+print("#")
 
-# for _ in range(7):
-#     print('#')
+for _ in range(7):
+    print('#')
 
-# def tab():
-#     print_col(2)
+def tab():
+    print_col(2)
 
-# def print_col(c):
-#     for i in range(c):
-#         print("#")
+def print_col(c):
+    for i in range(c):
+        print("#")
 
-# without using for loop height
-# def print_col(r):
-#     print("#\n" * r, end="")
+without using for loop height
+def print_col(r):
+    print("#\n" * r, end="")
 
 def tab():
     print_square(20)
