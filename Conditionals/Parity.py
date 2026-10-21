@@ -8,7 +8,7 @@ else:
 
 
 
-# using main function and complex function
+using main function and complex function
 def main():
     x = int(input("Enter x: "))
 
