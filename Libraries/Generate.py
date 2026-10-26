@@ -6,11 +6,11 @@ print(coin)
 
 
 
-Limited random module import using "from" keyword
-from random import choice
+# Limited random module import using "from" keyword
+# from random import choice
 
-dice = choice( [ 1, 2, 3, 4, 5, 6 ] )
-print(dice)
+# dice = choice( [ 1, 2, 3, 4, 5, 6 ] )
+# print(dice)
 
 # number = random.randint(0, 100)
 # print(number)
