@@ -5,7 +5,6 @@ coin = random.choice( [ "Heads", "Tails" ] )
 print(coin)
 
 
-
 # Limited random module import using "from" keyword
 # from random import choice
 
