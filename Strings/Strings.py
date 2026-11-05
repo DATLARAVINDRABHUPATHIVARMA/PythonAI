@@ -12,5 +12,5 @@
 # print(name)
 
 # concatination of string
-name = "Radha Maharani"
-print( name +" is Queen of the Kingdom" )
+# name = "Radha Maharani"
+# print( name +" is Queen of the Kingdom" )
