@@ -11,6 +11,6 @@
 # name = "Radha Maharani"
 # print(name)
 
-concatination of string
+# concatination of string
 # name = "Radha Maharani"
 # print( name +" is Queen of the Kingdom" )
