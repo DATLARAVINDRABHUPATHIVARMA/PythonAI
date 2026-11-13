@@ -11,8 +11,6 @@ elif operator == "*":
 elif operator == "/":
     if b == 0:
         print("Error: Division by zero is not allowed.")
-    elif (a % b) == 0:
-        print(a // b)
     else:
         print(a / b)  
 elif operator == "%":
