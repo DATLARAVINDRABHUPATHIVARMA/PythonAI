@@ -11,3 +11,9 @@ Conversions = {
     "NSB":"Nat-Sciver Brunt",
     "EP":"Ellyse Perry"
 }
+
+print(Conversions["SP"]) # Printing the value based on the key
+print(Conversions["JR"]) # Printing the value based on the key
+
+# get function for printing value
+print(Conversions.get("AK"))
