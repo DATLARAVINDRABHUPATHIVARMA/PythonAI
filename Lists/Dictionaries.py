@@ -1,6 +1,6 @@
 Conversions = {
-    "JR":"Jemimah Rodrigues",
-    "SP":"Shreyanka Patil",
+    5:"Jemimah Rodrigues",
+    31:"Shreyanka Patil",
     "SM":"Smriti Mandhana",
     "AC":"Alice Capsey",
     "SE":"Sophie Ecclestone",
@@ -12,8 +12,11 @@ Conversions = {
     "EP":"Ellyse Perry"
 }
 
-print(Conversions["SP"]) # Printing the value based on the key
-print(Conversions["JR"]) # Printing the value based on the key
+print(Conversions["AC"]) # Printing the value based on the key
+print(Conversions[5]) # Printing the value based on the key
 
 # get function for printing value
 print(Conversions.get("AK"))
+
+# Invalid Case with get
+print(Conversions.get("RR", "Invalid Key"))
