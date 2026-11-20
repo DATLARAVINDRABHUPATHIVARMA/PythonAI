@@ -5,7 +5,6 @@ jersey_numbers = (5, 31, 64, 19, 27, 18, 13) # Tuple of jersey numbers
 
 print(jersey_numbers) # Printing the tuple of jersey numbers
 
-
 # Tuples inside lists
 women_cricketers = [("Jemimah Rodrigues", 5), ("Shreyanka Patil", 31), ("Alice Capsey", 64), ("Sophie Ecclestone", 19), ("Alana King", 27), ("Smriti Mandhana", 18)] # List of tuples containing women cricketers and their jersey numbers
 
