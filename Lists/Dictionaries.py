@@ -1,7 +1,7 @@
 Conversions = {
     5:"Jemimah Rodrigues",
     31:"Shreyanka Patil",
-    "SM":"Smriti Mandhana",
+    18:"Smriti Mandhana",
     "AC":"Alice Capsey",
     "SE":"Sophie Ecclestone",
     "RG":"Richa Ghosh",
