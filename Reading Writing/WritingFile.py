@@ -1,4 +1,4 @@
-em_file = open("sample.txt","w") # Overwrite on the same file or write on a new file
+em_file = open("sample.txt","w")  # Overwrite on the same file or write on a new file
 em_file.write("Sruthi - Royal Princess Highness" "\tSruthi - Royal Princess Highness")
 
 em_file.close()
